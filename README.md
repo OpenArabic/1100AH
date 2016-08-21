@@ -51,13 +51,15 @@
 - `0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.completed`
 
 
-## Vetted (0)
+## Vetted (2)
+
+- `0310Tabari.Tarikh.Shia003474Vols-ara1.mARkdown`
+- `0658IbnAbbar.TuhfaQadim.Shamela0026108-ara1.mARkdown`
 
 
 
 
-
-# 1100AH [[ [Re]generated on 2016-08-19 (13:43:35) ]]
+# 1100AH [[ [Re]generated on 2016-08-21 (20:32:00) ]]
 
 * `1010TamimiDari.TabaqatSaniya `
     * TAGS: BIO,CENT1100,COL,PPE,_TABAQAT,_TARAJIM,_TARIKH
