@@ -106,11 +106,12 @@
 
 
 
-# 1100AH [[ [Re]generated on 2016-10-16 (15:13:25) ]]
+# 1100AH [[ [Re]generated on 2016-10-16 (23:19:53) ]]
 
 * `1010TamimiDari.TabaqatSaniya (TAGS: BIO, CENT1100, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
 * `1011SahibMacalim.TahrirTawusi (TAGS: CENT1100, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
 * `1014IbnSultanHarawi.MirqatMafatih (TAGS: CENT1100, _HADITH, _SHARH, _TARAJIM)`
+* `1014IbnSultanHarawi.SharhShifa (TAGS: CENT1100, _SHAMAIL, _SIRA)`
 * `1016MuhibbDinHamawi.HadiAzcan (TAGS: CENT1100, GEO, PPE, _BULDAN, _JUGHRAFIYA, _MISC, _RIHLAT)`
 * `1031CabdRaufMunawi.Tawqif (TAGS: CENT1100, _FAHARIS, _FIQH, _GHARIB, _MACAJIM, _MUSTALAHAT)`
 * `1037CabdQadirCaydarus.TarikhNurSafir (TAGS: CENT1100, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
