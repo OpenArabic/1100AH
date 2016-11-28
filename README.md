@@ -138,9 +138,11 @@
 
 
 
-# 1100AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]
+# 1100AH [[ [Re]generated on 2016-11-28 (22:57:48) ]]
 
 * `1004ShamsDinRamli.FatawaRamli (TAGS: CENT1100, _CHRONOMULTIPLE, _FATAWA, _FIQH, _SHAFICI)`
+* `1008DawudAntaki.TadhkiratUlaAlbab (TAGS: CENT1100, _TIBB)`
+* `1008DawudAntaki.TazyinAswaq (TAGS: CENT1100, _ADAB, _BALAGHA, _QISAS, _TARAIF)`
 * `1010TamimiDari.TabaqatSaniya (TAGS: BIO, CENT1100, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
 * `1011SahibMacalim.TahrirTawusi (TAGS: CENT1100, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
 * `1014IbnSultanHarawi.Adilla (TAGS: CENT1100, _CAQAID, _MILAL)`
@@ -170,6 +172,7 @@
 * `1069ShihabDinKhafaji.RayhanaAlibba (TAGS: CENT1100, PPE, _MISC, _TABAQAT, _TARAJIM)`
 * `1070MuhammadKibrit.RihlaShita (TAGS: CENT1100, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
 * `1078RiyadZadah.AsmaKutub (TAGS: BIB, CENT1100, PPE, _ADILLA, _FAHARIS, _KUTUB)`
+* `1081MuhammadSalihMazandarani.SharhUsulKafi (TAGS: CENT1100, _HADITH, _SHICI, _FIQH)`
 * `1086IbnCajamiMisri.DhaylLubbLubab (TAGS: CENT1100, ONO, PPE, _ANSAB)`
 * `1089IbnCimad.Shadharat (TAGS: BIO, CENT1100, CHR, COL, PPE, _TARIKH)`
 * `1090NizamDinBalkhi.FatawaHindiyya (TAGS: _CENT00NO, _FATAWA, _FIQH, _HANAFI)`
