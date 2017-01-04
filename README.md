@@ -138,7 +138,7 @@
 
 
 
-# 1100AH [[ [Re]generated on 2016-12-10 (20:36:52) ]]
+# 1100AH [[ [Re]generated on 2017-01-04 (15:09:51) ]]
 
 * `1004ShamsDinRamli.FatawaRamli (TAGS: CENT1100, _CHRONOMULTIPLE, _FATAWA, _FIQH, _SHAFICI)`
 * `1008DawudAntaki.TadhkiratUlaAlbab (TAGS: CENT1100, _TIBB)`
@@ -168,6 +168,17 @@
 * `1031CabdRaufMunawi.Tawqif (TAGS: CENT1100, _FAHARIS, _FIQH, _GHARIB, _MACAJIM, _MUSTALAHAT)`
 * `1031CabdRaufMunawi.TaysirBiSharh (TAGS: CENT1100, _HADITH, _SHARH, _TARAJIM)`
 * `1031CabdRaufMunawi.YawaqitWaDurar (TAGS: CENT1100, _CULUM, _HADITH, _MUSTALAHAT)`
+* `1033MarciKarmi.AqawilThiqat (TAGS: CENT1100, _CAQAID, _MILAL)`
+* `1033MarciKarmi.DalilTalibLiNaylMatalib (TAGS: CENT1100, _FIQH, _HANBALI)`
+* `1033MarciKarmi.DalilTalibin (TAGS: CENT1100, _NAHW, _SARF)`
+* `1033MarciKarmi.FawaidMawduca (TAGS: CENT1100, _CILAL, _DACIF, _HADITH, _MAWDUC, _SUALAT)`
+* `1033MarciKarmi.IthafDhawiAlbab (TAGS: CENT1100, _TAFSIR)`
+* `1033MarciKarmi.KalimatBayyinat (TAGS: CENT1100, _TAFSIR)`
+* `1033MarciKarmi.MasbukDhahab (TAGS: CENT1100, _BUHUTH, _MASAIL, _MISC)`
+* `1033MarciKarmi.QalaidMarjan (TAGS: CENT1100, _CULUM, _MANSUKH, _NASIKH, _QURAN, _TAFSIR)`
+* `1033MarciKarmi.RafcShubha (TAGS: CENT1100, _CAQAID, _MILAL)`
+* `1033MarciKarmi.ShahadaZakiyya (TAGS: CENT1100, _TABAQAT, _TARAJIM, _TARIKH)`
+* `1033MarciKarmi.TahqiqRujhan (TAGS: CENT1100, _BUHUTH, _MASAIL)`
 * `1037CabdQadirCaydarus.TarikhNurSafir (TAGS: CENT1100, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
 * `1041BurhanDinMaliki.BahjaMahafil (TAGS: CENT1100, PPE, _TABAQAT, _TARAJIM)`
 * `1041Maqarri.AzharRiyad (TAGS: CENT1100, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
