@@ -140,7 +140,7 @@
 
 
 
-# 1100AH [[ [Re]generated on 2017-01-04 (16:16:12) ]]
+# 1100AH [[ [Re]generated on 2017-01-08 (17:58:22) ]]
 
 * `1004ShamsDinRamli.FatawaRamli (TAGS: CENT1100, _CHRONOMULTIPLE, _FATAWA, _FIQH, _SHAFICI)`
 * `1008DawudAntaki.TadhkiratUlaAlbab (TAGS: CENT1100, _TIBB)`
@@ -186,6 +186,9 @@
 * `1041Maqarri.AzharRiyad (TAGS: CENT1100, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
 * `1041Maqarri.NafhTib (TAGS: CENT1100, PPE, _ADAB, _ADAB, _BALAGHA, _BULDAN, _TARAJIM, _TARIKH)`
 * `1044IbnBurhanDinHalabi.SiraHalabiyya (TAGS: CENT1100, _ASHAB, _IMAM, _NABI, _SHAMAIL, _SIRA)`
+* `1050SadrDinShirazi.HikmaMutacaliya (TAGS: CENT1100, _CIRFAN, _FALSAFA, _MANTIQ)`
+* `1050SadrDinShirazi.MabdaWaMacad (TAGS: CENT1100, _CIRFAN, _FALSAFA, _MANTIQ)`
+* `1050SadrDinShirazi.Mashacir (TAGS: CENT1100, _CIRFAN, _FALSAFA, _MANTIQ)`
 * `1051Cimadi.RawdaRayya (TAGS: CENT1100, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH)`
 * `1057IbnCallan.DalilFalihin (TAGS: CENT1100, _HADITH, _SHARH)`
 * `1057IbnCallan.DalilFalihin (TAGS: CENT1100, _HADITH, _SHARH, _TARAJIM)`
@@ -193,13 +196,13 @@
 * `1061NajmDinGhazzi.KawakibSaira (TAGS: CENT1100, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
 * `1067HajjiKhalifa.KashfZunun (TAGS: BIB, CENT1100, COL, PPE, _ADILLA, _FAHARIS, _KUTUB, _MACAJIM)`
 * `1069ShihabDinKhafaji.RayhanaAlibba (TAGS: CENT1100, PPE, _MISC, _TABAQAT, _TARAJIM)`
-* `1069ShihabDinQalyubi.HashiyataQalyubiWaCumayra (TAGS: _CENT00NO, _FIQH, _SHAFICI)`
+* `1069ShihabDinQalyubi.HashiyataQalyubiWaCumayra (TAGS: _FIQH, _SHAFICI)`
 * `1070MuhammadKibrit.RihlaShita (TAGS: CENT1100, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
 * `1078RiyadZadah.AsmaKutub (TAGS: BIB, CENT1100, PPE, _ADILLA, _FAHARIS, _KUTUB)`
 * `1081MuhammadSalihMazandarani.SharhUsulKafi (TAGS: CENT1100, _HADITH, _SHICI, _FIQH)`
 * `1086IbnCajamiMisri.DhaylLubbLubab (TAGS: CENT1100, ONO, PPE, _ANSAB)`
 * `1089IbnCimad.Shadharat (TAGS: BIO, CENT1100, CHR, COL, PPE, _TARIKH)`
-* `1090NizamDinBalkhi.FatawaHindiyya (TAGS: _CENT00NO, _FATAWA, _FIQH, _HANAFI)`
+* `1090NizamDinBalkhi.FatawaHindiyya (TAGS: _FATAWA, _FIQH, _HANAFI)`
 * `1093CabdQadirBaghdadi.KhizanatAdab (TAGS: CENT1100, _ADAB, _ADAB, _BALAGHA, _FASAHA, _SHICR)`
 * `1094IbnMuhammadSusi.JamcFawaid (TAGS: CENT1100, _HADITH, _TAKHRIJ)`
 * `1100IbnMuhammadAdnahwi.TabaqatMufassirin (TAGS: CENT1100, PPE, _MUFASSIRUN, _TABAQAT, _TARAJIM, _TARIKH)`
