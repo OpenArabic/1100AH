@@ -77,8 +77,8 @@
 - `0466CabdAzizKattani.DhaylTarikhMawlidCulama (18,115 words; 463 units; 0 bios)`
 - `0476AbuIshaqShirazi.TabaqatFuqaha (30,392 words; 508 units; 0 bios)`
 - `0482AbuIshaqHabbal.WafayatMisriyyin (6,616 words; 497 units; 0 bios)`
-- `0521IbnAbiYacla.TabaqatHanabila (169,947 words; 880 units; 0 bios)`
 - `0524IbnAkfani.DhaylDhaylTarikhMawlidCulama (4,082 words; 84 units; 0 bios)`
+- `0526IbnAbiYacla.TabaqatHanabila (169,947 words; 880 units; 0 bios)`
 - `0544CiyadIbnMusaYahsubi.TartibMadarik (320,968 words; 1,177 units; 0 bios)`
 - `0555IbnQalanisi.Tarikh (120,986 words; 157 units; 0 bios)`
 - `0565IbnZaydBayhaqi.TarikhBayhaq (121,031 words; 299 units; 0 bios)`
@@ -140,12 +140,20 @@
 
 
 
-# 1100AH [[ [Re]generated on 2017-01-08 (17:58:22) ]]
+# 1100AH [[ [Re]generated on 2017-01-22 (16:18:08) ]]
 
 * `1004ShamsDinRamli.FatawaRamli (TAGS: CENT1100, _CHRONOMULTIPLE, _FATAWA, _FIQH, _SHAFICI)`
+* `1004ShamsDinRamli.GhayatBayan (TAGS: CENT1100, _FIQH, _SHAFICI)`
+* `1004ShamsDinRamli.HashiyatRamli (TAGS: CENT1100, _FIQH, _SHAFICI)`
+* `1004ShamsDinRamli.NihayatMuhtaj (TAGS: CENT1100, _FIQH, _SHAFICI)`
+* `1004ShamsDinTumurtashi.BadhlMajhud (TAGS: CENT1100, _BUHUTH, _MASAIL)`
 * `1008DawudAntaki.TadhkiratUlaAlbab (TAGS: CENT1100, _TIBB)`
 * `1008DawudAntaki.TazyinAswaq (TAGS: CENT1100, _ADAB, _BALAGHA, _QISAS, _TARAIF)`
+* `1009MuhammadCamili.MadarikAhkam (TAGS: CENT1100, _AFTER800, _FIQH, _SHICI)`
+* `1009MuhammadCamili.NihayatMaram (TAGS: CENT1100, _AFTER800, _FIQH, _SHICI)`
 * `1010TamimiDari.TabaqatSaniya (TAGS: BIO, CENT1100, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
+* `1011IbnShahidThani.MacalimDin (TAGS: CENT1100, _FIQH, _SHICI, _USUL)`
+* `1011IbnShahidThani.MuntaqaJuman (TAGS: CENT1100, _HADITH, _SHICI, _TARAJIM)`
 * `1011SahibMacalim.TahrirTawusi (TAGS: CENT1100, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
 * `1014IbnSultanHarawi.Adilla (TAGS: CENT1100, _CAQAID, _MILAL)`
 * `1014IbnSultanHarawi.AhadithQudsiyya (TAGS: CENT1100, _HADITH, _TAKHRIJ)`
@@ -161,7 +169,9 @@
 * `1014IbnSultanHarawi.SharhNakhbatFikr (TAGS: CENT1100, _CULUM, _HADITH, _MUSTALAHAT)`
 * `1014IbnSultanHarawi.SharhShifa (TAGS: CENT1100, _SHAMAIL, _SIRA)`
 * `1014IbnSultanHarawi.TasliyyatAcma (TAGS: CENT1100, _ADAB, _ADHKAR, _RAQAIQ)`
+* `1014ZaynDinTablawi.ShamcaMudiyya (TAGS: CENT1100, _CULUM, _QURAN, _TAFSIR)`
 * `1016MuhibbDinHamawi.HadiAzcan (TAGS: CENT1100, GEO, PPE, _BULDAN, _JUGHRAFIYA, _MISC, _RIHLAT)`
+* `1016MuhibbDinHamawi.TanzilAyat (TAGS: CENT1100, _QURAN, _SHICI, _TAFSIR)`
 * `1031BahaDinCamili.Kashkul (TAGS: CENT1100, _ADAB, _ADAB, _BALAGHA, _QISAS, _TARAIF)`
 * `1031CabdRaufMunawi.FathSamawi (TAGS: CENT1100, _HADITH, _SUNNI, _TAKHRIJ, _TARAJIM)`
 * `1031CabdRaufMunawi.FaydQadir (TAGS: CENT1100, _HADITH, _SHARH, _SUNNI, _TARAJIM)`
